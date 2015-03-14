@@ -1,0 +1,10 @@
+﻿{
+  "output": "Message",
+  "ignore": [],
+  "options": {
+    "predef": {}
+  },
+  "runOnSave": false,
+  "runOnBuild": false,
+  "cancelBuild": false
+}

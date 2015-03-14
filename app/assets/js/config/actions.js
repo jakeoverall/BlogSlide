@@ -1,0 +1,1 @@
+﻿exports.actions = require('../actions/main');

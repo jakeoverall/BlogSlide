@@ -1,0 +1,9 @@
+﻿exports.React = require('react'),
+exports.Router = require('react-router'),
+exports.Firebase = require('firebase'),
+exports.$ = require('jquery');
+window.$ = exports.$;
+window.jQuery = exports.$;
+exports.bootstrap = require('bootstrap');
+exports.reactFire = require('reactfire');
+exports.showdown = require('../../plugins/showdown');

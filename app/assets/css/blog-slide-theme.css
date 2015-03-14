@@ -1,0 +1,176 @@
+﻿/*   
+Template Name: Color Admin - Responsive Admin Dashboard Template build with Twitter Bootstrap 3.3.1
+Version: 1.5.0
+Author: Sean Ngu
+Website: http://www.seantheme.com/color-admin-v1.5/admin/
+*/
+
+.btn.btn-theme {
+    background: #0072bc;
+    border-color: #0072bc;
+    color: #fff;
+}
+.btn.btn-theme:hover,
+.btn.btn-theme:focus {
+    background: #8dc63f;
+    border-color: #8dc63f;
+}
+.header.navbar .navbar-nav > li.active > a, 
+.header.navbar .navbar-nav > li > a:hover, 
+.header.navbar .navbar-nav > li > a:focus,
+.header.navbar.navbar-default .navbar-nav > li.active > a, 
+.header.navbar.navbar-default .navbar-nav > li > a:hover, 
+.header.navbar.navbar-default .navbar-nav > li > a:focus,
+.header.navbar.navbar-transparent .navbar-nav > li.active > a, 
+.header.navbar.navbar-transparent .navbar-nav > li > a:hover, 
+.header.navbar.navbar-transparent .navbar-nav > li > a:focus,
+.header.navbar.navbar-inverse .navbar-nav > li.active > a, 
+.header.navbar.navbar-inverse .navbar-nav > li > a:hover, 
+.header.navbar.navbar-inverse .navbar-nav > li > a:focus,
+.header.navbar.navbar-transparent.navbar-small .navbar-nav > li.active > a,
+.header.navbar.navbar-transparent.navbar-small .navbar-nav > li > a:hover,
+.header.navbar.navbar-transparent.navbar-small .navbar-nav > li > a:focus,
+.text-theme,
+.navbar-nav .dropdown-menu > li.active > a,
+.navbar-nav .dropdown-menu > li > a:hover,
+.navbar-nav .dropdown-menu > li > a:focus,
+.pricing-table .price .price-number,
+a {
+    color: #0072bc;
+}
+a:hover,
+a:focus {
+    color: #8dc63f;
+}
+.pricing-table .highlight h3,
+.pace-progress {
+    background: #8dc63f;
+}
+.pricing-table .highlight .price {
+    background: #0072bc;
+}
+.pace .pace-activity {
+    border-top-color: #0072bc;
+    border-left-color: #0072bc;
+}
+.brand-logo,
+.footer .footer-brand-logo {
+    border-color: #4DCACA #31A3A3 #1D8888;
+}
+.header.navbar.navbar-default .navbar-nav > li > a.text-theme-alt
+.header.navbar.navbar-transparent .navbar-nav > li > a.text-theme-alt,
+.header.navbar.navbar-inverse .navbar-nav > li > a.text-theme-alt,
+.header.navbar.navbar-transparent.navbar-small .navbar-nav > li > a.text-theme-alt,
+.header.navbar .navbar-nav > li > a.text-theme-alt,
+.text-theme-alt{
+  color: #8dc63f;
+}
+a:hover{
+  cursor: pointer;
+}
+.nav-logo{
+  height: 60px;
+  margin-bottom: 3px;
+}
+.header.navbar.navbar-transparent.navbar-small{
+  background-color: rgba(18, 18, 18, 1);
+}
+.header.navbar.navbar-transparent.navbar-small .brand-logo+.brand-text, .header.navbar.navbar-transparent.navbar-small .navbar-nav>li>a{
+  color: #fff;
+}
+.bg-black-darker{
+  background-color: #111212;
+}
+.bg-green{
+  background-color: #94D042;
+}
+.footer {
+  background-color: #0E0F10;
+}
+.learn-logo{
+  height: 50px;
+}
+.icon-no-bg{ 
+  color: #fff;
+  margin: 10px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 18px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+}
+.title{
+  margin-bottom: 10px;
+}
+.learn-info{
+  padding: 0 50px;
+}
+.tuition{
+  float: none;
+  width: 300px;
+}
+.tuition-table-header {
+    background-color: #080909 !important;
+    color: #fff;
+    font-weight: 600;
+}
+.navbar.navbar-inverse {
+background: #000000;
+}
+.footer-site-links{
+  margin-top: 10px;
+}
+.server-message{
+  position: fixed;
+  top:  120px;
+  right: 10px;
+  z-index: 9999;
+}
+.lesson-container {
+    height: 260px;
+    border: 1px solid black;
+    padding: 20px;
+    float: left;
+    text-align: center;
+    width: 320px;
+    margin: 10px;
+    overflow: hidden;
+}
+.add-lesson {
+    
+}
+.slide-container {
+    max-width: 800px;
+    min-width: 300px;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 15px;
+}
+.slide-title {
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.slide-key-points {
+    font-size: 25px;
+}
+.slide-key-points a{
+    font-size: 16px;
+}
+.slide-key-points ul{
+    list-style: none;
+    margin: 10px 0;
+    padding-left: 10px;
+}
+.speaker-notes {
+    max-width: 800px;
+    min-width: 300px;
+    border: 1px solid black;
+    margin: 20px;
+    margin-top: -21px;
+    padding: 15px;
+}
+.speaker-notes p {
+    font-size: 12px;
+}
